@@ -1,0 +1,6 @@
+15:55:32 **** Incremental Build of configuration Debug for project HelloWorldC++ ****
+make all 
+make: Nothing to be done for `all'.
+
+15:55:32 Build Finished. 0 errors, 0 warnings. (took 88ms)
+

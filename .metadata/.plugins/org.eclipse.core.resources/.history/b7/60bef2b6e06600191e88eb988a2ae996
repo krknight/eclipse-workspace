@@ -1,0 +1,20 @@
+//============================================================================
+// Name        : STLlist.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : STL doubly linked list
+//============================================================================
+
+#include <iostream>
+#include <list>
+using namespace std;
+
+void showlist (list <int> g) {
+
+}
+
+int main() {
+	list <int> gqlist1, gqlist2;
+	return 0;
+}

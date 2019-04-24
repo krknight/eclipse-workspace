@@ -1,0 +1,7 @@
+15:47:34 **** Clean-only build of configuration Debug for project Unit4C ****
+make clean 
+rm -rf  ./src/Unit4C.o  ./src/Unit4C.d  Unit4C
+ 
+
+15:47:34 Build Finished. 0 errors, 0 warnings. (took 77ms)
+

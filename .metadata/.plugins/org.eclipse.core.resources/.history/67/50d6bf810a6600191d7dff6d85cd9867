@@ -1,0 +1,14 @@
+/*
+ * Tesla.cpp
+ *
+ *  Created on: Apr 23, 2019
+ *      Author: kknight
+ */
+
+#include "Tesla.h"
+
+Tesla::Tesla() {
+
+}
+
+

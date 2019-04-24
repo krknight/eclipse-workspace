@@ -1,0 +1,7 @@
+15:47:34 **** Clean-only build of configuration Debug for project NewCpp ****
+make clean 
+rm -rf  ./src/NewCpp.o  ./src/NewCpp.d  NewCpp
+ 
+
+15:47:34 Build Finished. 0 errors, 0 warnings. (took 72ms)
+

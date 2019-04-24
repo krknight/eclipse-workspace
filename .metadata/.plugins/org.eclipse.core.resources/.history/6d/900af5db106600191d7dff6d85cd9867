@@ -1,0 +1,25 @@
+//============================================================================
+// Name        : Polymorphism.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include "vehicle.h"
+#include "Tesla.h"
+#include "RangeRover.h"
+
+using namespace std;
+
+int main() {
+
+	vehicle v;
+	Tesla t;
+	RangeRover r;
+	cout << v.propulsion() << endl;
+	cout << t.propulsion() << endl;
+	cout << r.propulsion() << endl;
+	return 0;
+}

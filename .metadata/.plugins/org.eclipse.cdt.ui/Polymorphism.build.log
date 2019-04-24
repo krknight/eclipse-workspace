@@ -1,0 +1,7 @@
+15:47:34 **** Clean-only build of configuration Debug for project Polymorphism ****
+make clean 
+rm -rf  ./src/Polymorphism.o ./src/RangeRover.o ./src/Tesla.o ./src/vehicle.o  ./src/Polymorphism.d ./src/RangeRover.d ./src/Tesla.d ./src/vehicle.d  Polymorphism
+ 
+
+15:47:34 Build Finished. 0 errors, 0 warnings. (took 75ms)
+

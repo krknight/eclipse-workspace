@@ -1,0 +1,14 @@
+/*
+ * vehicle.cpp
+ *
+ *  Created on: Apr 23, 2019
+ *      Author: kknight
+ */
+
+#include "vehicle.h"
+
+vehicle::vehicle() {base = 0;};
+
+
+
+

@@ -1,0 +1,26 @@
+/*
+ * fib.h
+ *
+ *  Created on: Apr 23, 2019
+ *      Author: kknight
+ */
+
+#ifndef FIB_H_
+#define FIB_H_
+
+class fib {
+private:
+	int idx;
+public:
+	int iterations;
+public:
+	fib();
+	fib(int n) : idx(n) {iterations = 0;};
+	virtual ~fib();
+
+	int findFibRecursive(int rindex);
+
+	int findFibDynamic();
+};
+
+#endif /* FIB_H_ */

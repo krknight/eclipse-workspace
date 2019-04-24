@@ -1,0 +1,95 @@
+15:40:55 **** Incremental Build of configuration Debug for project STLlist ****
+make all 
+Building file: ../src/STLlist.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/STLlist.d" -MT"src/STLlist.o" -o "src/STLlist.o" "../src/STLlist.cpp"
+Finished building: ../src/STLlist.cpp
+ 
+Building target: STLlist
+Invoking: MacOS X C++ Linker
+g++  -o "STLlist"  ./src/STLlist.o   
+Finished building target: STLlist
+ 
+15:40:56 **** Incremental Build of configuration Debug for project STLlist ****
+make all 
+make: Nothing to be done for `all'.
+15:44:06 **** Clean-only build of configuration Debug for project CFundamentals ****
+make clean 
+rm -rf  ./src/CFundamentals.o ./src/constants.o ./src/search.o  ./src/CFundamentals.d ./src/constants.d ./src/search.d  CFundamentals
+ 
+15:44:06 **** Clean-only build of configuration Debug for project Fibonacci ****
+make clean 
+rm -rf  ./src/Fibonacci.o ./src/fib.o  ./src/Fibonacci.d ./src/fib.d  Fibonacci
+ 
+15:44:06 **** Clean-only build of configuration Debug for project NewCpp ****
+make clean 
+rm -rf  ./src/NewCpp.o  ./src/NewCpp.d  NewCpp
+ 
+15:44:06 **** Clean-only build of configuration Debug for project OverloadedOperator ****
+make clean 
+rm -rf  ./src/OverloadedOperator.o  ./src/OverloadedOperator.d  OverloadedOperator
+ 
+15:44:06 **** Clean-only build of configuration Debug for project Polymorphism ****
+make clean 
+rm -rf  ./src/Polymorphism.o ./src/RangeRover.o ./src/Tesla.o ./src/vehicle.o  ./src/Polymorphism.d ./src/RangeRover.d ./src/Tesla.d ./src/vehicle.d  Polymorphism
+ 
+15:44:06 **** Clean-only build of configuration Debug for project STLlist ****
+make clean 
+rm -rf  ./src/STLlist.o  ./src/STLlist.d  STLlist
+ 
+15:44:06 **** Clean-only build of configuration Debug for project TowerOfHanoi ****
+make clean 
+rm -rf  ./src/TowerOfHanoi.o  ./src/TowerOfHanoi.d  TowerOfHanoi
+ 
+15:44:06 **** Clean-only build of configuration Debug for project Unit4C ****
+make clean 
+rm -rf  ./src/Unit4C.o  ./src/Unit4C.d  Unit4C
+ 
+15:44:06 **** Clean-only build of configuration Debug for project Unit5C ****
+make clean 
+rm -rf  ./src/Unit5C.o  ./src/Unit5C.d  Unit5C
+ 
+15:44:06 **** Clean-only build of configuration Debug for project Unit5C++ ****
+make clean 
+rm -rf  ./src/Unit5C++.o  ./src/Unit5C++.d  Unit5C++
+ 
+15:47:34 **** Clean-only build of configuration Debug for project CFundamentals ****
+make clean 
+rm -rf  ./src/CFundamentals.o ./src/constants.o ./src/search.o  ./src/CFundamentals.d ./src/constants.d ./src/search.d  CFundamentals
+ 
+15:47:34 **** Clean-only build of configuration Debug for project Fibonacci ****
+make clean 
+rm -rf  ./src/Fibonacci.o ./src/fib.o  ./src/Fibonacci.d ./src/fib.d  Fibonacci
+ 
+15:47:34 **** Clean-only build of configuration Debug for project NewCpp ****
+make clean 
+rm -rf  ./src/NewCpp.o  ./src/NewCpp.d  NewCpp
+ 
+15:47:34 **** Clean-only build of configuration Debug for project OverloadedOperator ****
+make clean 
+rm -rf  ./src/OverloadedOperator.o  ./src/OverloadedOperator.d  OverloadedOperator
+ 
+15:47:34 **** Clean-only build of configuration Debug for project Polymorphism ****
+make clean 
+rm -rf  ./src/Polymorphism.o ./src/RangeRover.o ./src/Tesla.o ./src/vehicle.o  ./src/Polymorphism.d ./src/RangeRover.d ./src/Tesla.d ./src/vehicle.d  Polymorphism
+ 
+15:47:34 **** Clean-only build of configuration Debug for project STLlist ****
+make clean 
+rm -rf  ./src/STLlist.o  ./src/STLlist.d  STLlist
+ 
+15:47:34 **** Clean-only build of configuration Debug for project TowerOfHanoi ****
+make clean 
+rm -rf  ./src/TowerOfHanoi.o  ./src/TowerOfHanoi.d  TowerOfHanoi
+ 
+15:47:34 **** Clean-only build of configuration Debug for project Unit4C ****
+make clean 
+rm -rf  ./src/Unit4C.o  ./src/Unit4C.d  Unit4C
+ 
+15:47:34 **** Clean-only build of configuration Debug for project Unit5C ****
+make clean 
+rm -rf  ./src/Unit5C.o  ./src/Unit5C.d  Unit5C
+ 
+15:47:34 **** Clean-only build of configuration Debug for project Unit5C++ ****
+make clean 
+rm -rf  ./src/Unit5C++.o  ./src/Unit5C++.d  Unit5C++
+ 

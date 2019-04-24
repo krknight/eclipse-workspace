@@ -1,0 +1,28 @@
+//============================================================================
+// Name        : Unit5C++.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+int main() {
+	vector<int> vptr;
+
+	vptr.push_back(1);
+	vptr.push_back(2);
+	vptr.push_back(3);
+	vptr.pop_back();
+
+	for (int i=0;i<vptr.size();i++) {
+		cout << vptr[i] << endl;
+	}
+
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}

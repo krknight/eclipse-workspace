@@ -1,0 +1,21 @@
+/*
+ * vehicle.cpp
+ *
+ *  Created on: Apr 23, 2019
+ *      Author: kknight
+ */
+
+#include "vehicle.h"
+#include <iostream>
+
+using namespace std;
+
+vehicle::vehicle() {base = 0;};
+
+void vehicle::propulsion() {
+	cout << "Stored energy to inertia" << endl;
+}
+
+
+
+
